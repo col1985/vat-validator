@@ -5,7 +5,7 @@ A node module to vaildate a VAT number from any country within the European Comm
 
 ####How to install?
 ```bash
-    npm install 
+    npm install https://github.com/col1985/vat-validator.git
 ``` 
 ###checkVat(params, callback)
     
