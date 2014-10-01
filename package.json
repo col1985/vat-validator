@@ -13,6 +13,23 @@
     "VIES",
     "SOAP"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/col1985/vat-validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/col1985/vat-validator/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/col1985/vat-validator/master/LICENSE"
+    }
+  ],
   "author": "Colúm Bennett",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "soap": "^0.5.1",
+    "winston": "^0.8.0"
+  }
 }

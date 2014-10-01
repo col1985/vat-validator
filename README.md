@@ -4,8 +4,11 @@ vat-validator
 A node module to vaildate a VAT number from any country within the European Commission. Module passes specfic countryCode and trailing VAT number to the public VIES SOAP web service and returns JSON object of request query.
 
 ####How to install?
+
+This is not a published module yet, but can install by entering the following command.
+
 ```bash
-    npm install https://github.com/col1985/vat-validator.git
+    npm install git+https://github.com/col1985/vat-validator.git --save
 ``` 
 ###checkVat(params, callback)
     
