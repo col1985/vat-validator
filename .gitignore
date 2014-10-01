@@ -1,0 +1,28 @@
+# Ignore standard IDE project files
+.project
+.idea
+
+.settings
+.DS_Store
+*/.DS_Store
+.sass-cache
+.tmp_*
+/docs
+/resources/docs
+/docs/*
+node_modules
+fhc-*
+client/default/archive
+ios/www/*
+*.swp
+*.lock
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+
+json
+*.log
+# xml
+updates
+
