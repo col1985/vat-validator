@@ -15,8 +15,6 @@ module.exports = function() {
         if (err || !client) {
             throw new Error(err);
         }
-        logger('info', '[ Validating VAT number with VIES Service ]\n');
-
         serviceClient = client;
         // logger('debug', '\n' + JSON.stringify(serviceClient.describe(), null, 2));
     });
