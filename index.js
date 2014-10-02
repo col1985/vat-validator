@@ -2,7 +2,7 @@ module.exports = function() {
 
     'use strict';
 
-    var logger = require('./util/logger.js')();
+    var logger = require('logger')();
     var soap = require('soap');
 
     var serviceClient = {};
