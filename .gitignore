@@ -9,8 +9,8 @@
 .tmp_*
 /docs
 /resources/docs
-/docs/*
 node_modules
+/docs/*
 fhc-*
 client/default/archive
 ios/www/*
