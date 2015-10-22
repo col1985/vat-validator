@@ -27,7 +27,6 @@
   "author": "Colúm Bennett",
   "license": "MIT",
   "dependencies": {
-    "logger": "git+https://github.com/col1985/logger.git",
     "soap": "^0.5.1"
   }
 }
